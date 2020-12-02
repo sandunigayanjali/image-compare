@@ -1,2 +1,2 @@
 # image-compare
-bbhhbbhh
+testing
